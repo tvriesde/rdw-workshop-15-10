@@ -68,7 +68,10 @@ Create a file called multiply.yaml in the backlog directory.
 
 Fill the content as shown below.
 ![alt text](image.png)
-Then ask Copilot agent to execute the changes required as described in the multiply.yaml file.
+Then ask Copilot in Agent mode to execute the changes required as described in the multiply.yaml file.
+
+To select agent mode, click the button on the bottom left.
+![alt text](image-2.png) 
 
 ### Step 8: Create additional functionality
 Instead of thinking of new functionality ourselves, we ask Copilot for inspiration and then ask it to create the user stories for us.

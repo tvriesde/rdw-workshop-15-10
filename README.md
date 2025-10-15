@@ -7,6 +7,7 @@ Welkom bij de Copilot & Agents workshop van RDW. In deze workshop leer je hoe je
 - GitHub Copilot introductie
   - GettingStarted
   - TDD use case
+  - Calculator Web API met Agent Mode
 - Introductie MCP: Ontwikkel en gebruik je eigen MCP Server
 - Introductie Foundry 
 	- Playground

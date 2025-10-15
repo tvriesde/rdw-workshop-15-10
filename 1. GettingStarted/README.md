@@ -2,9 +2,7 @@
 
 Welcome to GitHub Copilot! In this example, we'll show you how to use Copilot to write a simple .NET application.
 
-Create a new repository in the Wigo4IT GitHub Organization. You will use this during the workshop. Make sure to set visibility to private. Then clone the repository to your local machine and start working on it using VS Code.
-
-In your repository, create a directory called HelloCopilot. 
+Create a new folder on your machine, in which you create a directory called HelloCopilot. 
 
 In the HelloCopilot application, create a new console app using the terminal command: dotnet new console --use-program-main in the location where you would like to start.
 
@@ -75,11 +73,11 @@ You can keep hit **Enter** and **Tab** buttons to take suggestions, but make sur
 
 ### Step 3: Run the code
 
-Now, let's run the code. Click **Start** button on top.
+Now, let's run the code. Click **Start** button on top (in case you are using Visual Studio). Or in console type `dotnet run`.
 
 ![Run the code](./images/18_Start.jpg)
 
-If there is a drop down, click **Start** again.
+If there is a drop down, click **Start** again. (Visual Studio)
 
 ![Run the code](./images/19_Start.jpg)
 
