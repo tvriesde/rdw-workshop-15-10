@@ -7,6 +7,6 @@ At the end of this exercise your solution will have to meet the following requir
 - Each operation should be exposed as a separate endpoint
 - The API should be documented using OpenAPI/Swagger
 - An Azure Devps pipeline should be created to build and test the application
-- The applicaton should run locally, use a simple script to test the endpoints, here copilot can help as well. 
+- The application should run locally, use a simple script to test the endpoints, here copilot can help as well. 
 
 Actual deployment is out of scope for this workshop.
