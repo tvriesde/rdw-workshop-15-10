@@ -19,11 +19,11 @@ Make sure that you meet the following requirements.
 
 ## Steps
 
-### Step 1: Add MSTest project to HelloCopilot
-Next to the HelloCopilot directory (so not in), create an additional directory, name it TDD. In that directory execute the following terminal command. dotnet new mstest
+### Step 1: Add MSTest project to GettingStarted
+Next to the GettingStarted directory (so not in), create an additional directory, name it TDD. In that directory execute the following terminal command. dotnet new mstest
 
-### Step 2: Create dependency from MSTest project to HelloCopilot
-Find a way to create a dependency from MSTest to HelloCopilot, hint, ask Copilot Agent to help you with that.
+### Step 2: Create dependency from MSTest project to GettingStarted
+Find a way to create a dependency from MSTest to GettingStarted, hint, ask Copilot Agent to help you with that.
 
 ### Step 3: Build project
 
@@ -31,7 +31,7 @@ Build the solution. If you dont know how, ask Copilot.
 
 ### Step 4: Getting ready to write unit test
 
-We are finally ready to implement our unit test in TDD style. But first, add the following line in your unit testing class. You need to add your source code project namespace with `using` keyword. For example, in my example below, I added `using HelloCopilot` because `HelloCopilot` is my namespace for my source code project.
+We are finally ready to implement our unit test in TDD style. But first, add the following line in your unit testing class. You need to add your source code project namespace with `using` keyword. For example, in my example below, I added `using GettingStarted` because `GettingStarted` is my namespace for my source code project.
 
 ![Add namespace](./images/16_AddClass.jpg)
 
