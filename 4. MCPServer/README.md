@@ -14,5 +14,6 @@ For a simple nodejs implementation look at:
 https://github.com/tvriesde/mcp-license-check
 
 #### Step 3: Add the MCP server to GitHub Copilot
+
 Follow the instructions on:
-https://github.com/MicrosoftDocs/azure-dev-docs/blob/main/articles/azure-mcp-server/get-started/tools/visual-studio-code.md
+https://code.visualstudio.com/docs/copilot/customization/mcp-servers
