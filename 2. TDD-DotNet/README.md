@@ -76,7 +76,7 @@ To select agent mode, click the button on the bottom left.
 ### Step 8: Create additional functionality
 Instead of thinking of new functionality ourselves, we ask Copilot for inspiration and then ask it to create the user stories for us.
 Use a prompt similar to:
-Think about new features that would make our calculator more faeture complete. Then create user story files for each feature in the backlog directory. Use the same structure as the multiply user story. And set the status to open
+Think about new features that would make our calculator more feature complete. Then create user story files for each feature in the backlog directory. Use the same structure as the multiply user story. And set the status to open
 
 You should end up with new user stories, similar to the screenshow below.
 ![alt text](image-1.png)
